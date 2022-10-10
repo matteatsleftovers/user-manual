@@ -11,3 +11,9 @@ A user manual to working with me, with the intent of demystifying my preferences
 - If I think I'm going to be away from communication tools for a while during a workday, I'll set a status that explains that I'm away.
 - I reach out for help when I've been stuck on something for over an hour with little progress. I'm likely unaware of what I don't know in this situation, or I'm totally overlooking something right in front of me because of tunnel vision.
 - If I'm working on a review and I have more than a handful of comments, I'll likely reach out to start a synchronous chat about what I'm seeing. Synchronous chat, with the nuance of voice and (sometimes) video, can help communicate my curiosities and interest better than a wall of unresolved comments.
+
+## Matt's (Current) Interests in Technology
+
+- Offline mode: Letting me use an app even if I don't have a connection, then syncing/revalidating upon connecting again
+- Reducing app size/bundle size/payload size
+- Being [responsible with JavaScript](https://abookapart.com/products/responsible-javascript)
